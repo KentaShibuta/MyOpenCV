@@ -10,7 +10,7 @@ let package = Package(
         .binaryTarget(
             name: "opencv2",
             url: "https://github.com/KentaShibuta/MyOpenCV/releases/download/4.13.0/opencv2.xcframework.zip", // .zip必須
-            checksum: "71ccbaf3a4e3068de32b126acd2d5f2cc51e434e1691454058fd8709ef6e0b8e"
+            checksum: "020f1e31a72559c187900e017a486ced986c2fc2f9f3422c0613177c59f4956c"
         ),
     ]
 )
